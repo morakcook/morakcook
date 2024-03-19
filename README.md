@@ -18,8 +18,9 @@
 ### Phone: 010-3190-6015
 
 ## History
-### Activity: 파이썬기반AI인공지능 프로젝트 Start-Date: 2023-04-12 End-Date: 2023-10-12
-### Activity: KDT(OCR전문가 과정) Start-Date: 2023-10-27 End-Date: 2024-4-22
+### 파이썬기반AI인공지능 프로젝트 Start-Date: 2023-04-12 End-Date: 2023-10-12
+### KDT(OCR전문가 과정) Start-Date: 2023-10-27 End-Date: 2024-4-22
+
 ## Skill Sets
 
 ## Projects

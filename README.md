@@ -6,9 +6,6 @@
 <div align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=morakcook&show_icons=true&theme=transparent" alt="Anurag's GitHub stats" />
-  </a>
-  <br>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=morakcook" alt="top-lang" />
   </a>
 </div>

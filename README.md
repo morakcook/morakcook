@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
 # Intro
-## Hello!!
+## 안녕하십니까  AI및 웹 개발을 준비하는 서영우입니다.
 
 <div align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">

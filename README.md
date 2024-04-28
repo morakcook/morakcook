@@ -33,7 +33,16 @@
 
  
 ## Projects
+### 1.한솔데코 Dacon project(: 도배하자관련 질의응답 chatbot)
+- [데이콘 링크](https://dacon.io/competitions/official/236216/overview/description)
+- [깃허브 링크](https://github.com/morakcook/XwenA)
+- 설명: 한솔데코에서 주관하여 데이콘에서 실행된 도배하자관련 질의응답 chatbot을 만드는 프로젝트입니다.
+- 결과: 총 500팀(1500명) 출전하여 74등을 하였습니다.
 
+### 2. 2D이미지 to 3D Model Generation 프로젝트
+- [깃허브 링크](https://github.com/morakcook/DimensionalPioneers)
+- 설명: 사용자가 준비한 2D이미지 한장을 3D모델로 생성하는 프로젝트입니다.
+- 결과: 60%정도의 정확도의 결과물을 생성하였습니다.
 
 
 

@@ -37,7 +37,7 @@
 - [데이콘 링크](https://dacon.io/competitions/official/236216/overview/description)
 - [깃허브 링크](https://github.com/morakcook/XwenA)
 - 설명: 한솔데코에서 주관하여 데이콘에서 실행된 도배하자관련 질의응답 chatbot을 만드는 프로젝트입니다.
-- 결과: 총 500팀(1500명) 출전하여 74등을 하였습니다.
+- 결과: 팀 Xwena로 출전하여 총 500팀(1500명) 출전하여 74등을 하였습니다.
 
 ### 2. 2D이미지 to 3D Model Generation 프로젝트
 - [깃허브 링크](https://github.com/morakcook/DimensionalPioneers)

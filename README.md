@@ -41,7 +41,7 @@
 - 사용 편집기 : Eclipse
 
 ### 2.하이브 재무데이터 시각화 프로젝트
-- [깃허브 링크](https://github.com/morakcook/XwenA)
+- [깃허브 링크](https://github.com/morakcook/First_web)
 - 설명: 하이브 회사의 재무데이터를 시각화하여 제공하는 웹 제작 프로젝트입니다.
 - 사용언어 : Python, JavaScript, Html, Css
 - 사용 프레임워크 : Django

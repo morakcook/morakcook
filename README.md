@@ -1,20 +1,20 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
-# 안녕하십니까!
-## Python을 이용한 딥 러닝 및 웹 서비스에 탐구하는 개발자 서영우입니다.
+# :exclamation:안녕하십니까
+## 딥 러닝 및 웹 서비스에 탐구하는 개발자 서영우입니다.
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=morakcook&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morakcook&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
-## Contact
-### Mail: koito159@gmail.com
-### Phone: 010-3190-6015
+## :telephone_receiver: Contact
+### :e-mail: Mail: koito159@gmail.com
+### :iphone: Phone: 010-3190-6015
 
-## 수료
-### 파이썬기반AI인공지능 강의 Start-Date: 2023-04-12 End-Date: 2023-10-12
-### KDT(OCR전문가 과정) Start-Date: 2023-10-27 End-Date: 2024-4-22
+## :pencil: 수료
+### :speaker: 파이썬기반AI인공지능 강의 Start-Date: 2023-04-12 End-Date: 2023-10-12
+### :speaker: KDT(OCR전문가 과정) Start-Date: 2023-10-27 End-Date: 2024-4-22
 
-## 경력
+## :briefcase: 경력
 ### 삼성전자 크로스브라우징 프로젝트 
 - 기간: Start-Date: 2022-07 End-Date: 2022-12
 - 설명: IE의 지원종료로 인한 삼성전자의 업무 시스템의 최신화를 위한 크로스브라우징 프로젝트를 하였습니다.
@@ -22,7 +22,7 @@
 - 사용 프레임워크: Spring
 - 역할: 프론트 및 백 엔드 소스 크로스브라우징 & 백엔드 코드 변환
 
-## Projects
+## :mag_right: Projects
 ### 1.하이브 재무데이터 시각화 프로젝트
 - 기간: Start-Date: 2024-01 End-Date: 2024-02
 - [깃허브 링크](https://github.com/morakcook/First_web)
@@ -55,7 +55,7 @@
 
 
 
-## Skill Sets 
+## :wrench: Skill Sets 
 ### Lang
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)

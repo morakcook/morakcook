@@ -15,7 +15,7 @@
 ### :speaker: KDT(OCR전문가 과정) Start-Date: 2023-10-27 End-Date: 2024-4-22
 
 ## :briefcase: 경력
-### 삼성전자 크로스브라우징 프로젝트 
+### :one:삼성전자 크로스브라우징 프로젝트 
 - 기간: Start-Date: 2022-07 End-Date: 2022-12
 - 설명: IE의 지원종료로 인한 삼성전자의 업무 시스템의 최신화를 위한 크로스브라우징 프로젝트를 하였습니다.
 - 사용언어: JAVA, JavaScript, Html, Css
@@ -23,7 +23,7 @@
 - 역할: 프론트 및 백 엔드 소스 크로스브라우징 & 백엔드 코드 변환
 
 ## :mag_right: Projects
-### 1.하이브 재무데이터 시각화 프로젝트
+### :one:하이브 재무데이터 시각화 프로젝트
 - 기간: Start-Date: 2024-01 End-Date: 2024-02
 - [깃허브 링크](https://github.com/morakcook/First_web)
 - 설명: 하이브 회사의 재무데이터를 시각화하여 제공하는 웹 제작 프로젝트입니다.
@@ -32,7 +32,7 @@
 - 운영체제: Window
 - 역할: 프로젝트 설계, 프론트&백 엔드 구현
   
-### 2.한솔데코 Dacon project(: 도배하자관련 질의응답 chatbot)
+### :two:한솔데코 Dacon project(: 도배하자관련 질의응답 chatbot)
 - 기간: Start-Date: 2024-02 End-Date: 2024-03
 - [데이콘 링크](https://dacon.io/competitions/official/236216/overview/description)
 - [깃허브 링크](https://github.com/morakcook/XwenA)
@@ -43,7 +43,7 @@
 - 역할: 모델 학습, 검증
 - 결과: 팀 Xwena로 출전하여 총 500팀(1500명) 출전하여 74등을 하였습니다.
 
-### 3. 2D Image to 3D Model Generation 프로젝트
+### :three: 2D Image to 3D Model Generation 프로젝트
 - 기간: Start-Date: 2024-03 End-Date: 2024-04
 - [깃허브 링크](https://github.com/morakcook/DimensionalPioneers)
 - 설명: 3DObjectDetection을 위한 사용자가 준비한 2D이미지 한장을 3D모델로 생성하는 프로젝트입니다.
@@ -55,8 +55,8 @@
 
 
 
-## :wrench: Skill Sets 
-### Lang
+## :hammer:Skill Sets 
+### :pencil2:Lang
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
 ![Java](https://img.shields.io/badge/JAVA-orange?style=for-the-badge)
@@ -64,19 +64,19 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
 
-### FrameWork
+### :closed_book:FrameWork
 ![Django](https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=django)
 ![Flask](https://img.shields.io/badge/Flask-%23000000?style=for-the-badge&logo=flask)
 
-### 개발환경
+### :computer:운영체제
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=white)
 
-### AI사용 모델
+### :globe_with_meridians:AI사용 모델
 ![Zero123](https://img.shields.io/badge/Zero123-black?style=for-the-badge)
 ![Dust3r](https://img.shields.io/badge/Dust3r-black?style=for-the-badge)
 ![Llama](https://img.shields.io/badge/LLAMA-black?style=for-the-badge)
 
-### Tools
+### :wrench:Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 
  

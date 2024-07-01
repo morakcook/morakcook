@@ -1,10 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 
 # :exclamation:안녕하십니까
 ## 딥 러닝 및 웹 서비스에 탐구하는 개발자 서영우입니다.
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=morakcook&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morakcook&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## :telephone_receiver: Contact
 ### :e-mail: Mail: koito159@gmail.com
@@ -80,8 +79,9 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 
  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=morakcook&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morakcook&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>

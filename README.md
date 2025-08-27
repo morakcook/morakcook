@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 
 # :exclamation:안녕하십니까
-## 딥 러닝 및 웹 서비스에 탐구하는 개발자 서영우입니다.
+## 백엔드 개발자 서영우입니다.
 
 
 
@@ -20,6 +20,14 @@
 - 사용언어: JAVA, JavaScript, Html, Css
 - 사용 프레임워크: Spring
 - 역할: 프론트 및 백 엔드 소스 크로스브라우징 & 백엔드 코드 변환
+
+### :two:(주)플랜비커머스
+- 기간: Start-Date: 2024-08 End-Date: 2025-08
+- 설명: ASP.net 서버의 노후화로 인한 Django 프레임워크를 사용한 서버 리뉴얼 및 유지보수 와 이커머스 플랫폼 서비스 개발.
+- 사용언어: Python, JavaScript, Html, Css
+- 사용 프레임워크: Django
+- 역할: 풀스텍 개발
+- 링크: www.gvg.co.kr
 
 ## :mag_right: Projects
 ### :one:하이브 재무데이터 시각화 프로젝트
